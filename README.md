@@ -41,7 +41,7 @@ expense-tracker/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/RithwikYathamshetty/VRIZZLE/blob/7f60b174dd7ace29fe57e5211162722c59fa4913/app.py
 cd expense-tracker
 ```
 
@@ -99,14 +99,6 @@ https://your-username-expense-tracker-app-xxxx.streamlit.app
 ```
 
 > ⚠️ Note: Streamlit Cloud uses session state only — data resets on page refresh. This is expected for this project.
-
----
-
-## Screenshots
-
-> Add screenshots here after deploying (optional but recommended for internship submission).
-
----
 
 ## Author
 
