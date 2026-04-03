@@ -81,7 +81,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/your-username/expense-tracker.git
+git remote add origin URL
 git push -u origin main
 ```
 
@@ -95,12 +95,12 @@ git push -u origin main
 
 Your app will be live at a public URL like:
 ```
-https://your-username-expense-tracker-app-xxxx.streamlit.app
+https://vrizzle-project-rithwik-yathamshetty.streamlit.app/
 ```
 
 > ⚠️ Note: Streamlit Cloud uses session state only — data resets on page refresh. This is expected for this project.
 
 ## Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**RITHWIK YATHAMSHETTY**  
+[LinkedIn](https://www.linkedin.com/in/rithwik-yathamshetty-8ab5232a4/)
